@@ -4,6 +4,7 @@ from django.http import HttpRequest
 from custmize.models import Blog,Comment
 from django.utils import timezone
 from django_summernote.admin import SummernoteModelAdmin
+#ckedito
     
 
 # Register your models here.
